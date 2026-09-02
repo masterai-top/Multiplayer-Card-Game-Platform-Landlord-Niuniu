@@ -138,7 +138,7 @@ npm run start
 📧 **Email: masterai918@gmail.com**
 
 
-👉 **Contact me for the demo site + detailed pricing**
+
 
 
 ---
