@@ -178,7 +178,7 @@ npm run start
 📧 **Email：masterai918@gmail.com**
 
 
-👉 **聯絡我以取得示範站 + 詳細報價**
+
 
 
 ---
